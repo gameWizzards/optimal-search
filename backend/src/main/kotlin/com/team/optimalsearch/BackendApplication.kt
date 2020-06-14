@@ -1,4 +1,4 @@
-package com.team.optimalsearch.backend
+package com.team.optimalsearch
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication

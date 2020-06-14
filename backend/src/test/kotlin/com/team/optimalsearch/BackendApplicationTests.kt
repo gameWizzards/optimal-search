@@ -1,4 +1,4 @@
-package com.team.optimalsearch.backend
+package com.team.optimalsearch
 
 import org.junit.Test
 import org.junit.runner.RunWith

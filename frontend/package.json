@@ -1,5 +1,7 @@
 {
   "name": "frontend",
+  "description": "Estimating the cost of the toroidal-lattice communication network",
+  "author": "Mike Ladikov",
   "version": "0.1.0",
   "private": true,
   "scripts": {

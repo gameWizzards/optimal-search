@@ -5,7 +5,7 @@
 
 	<parent>
 		<groupId>com.team.optimal-search</groupId>
-		<artifactId>demo</artifactId>
+		<artifactId>optimal</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
 	</parent>
 
