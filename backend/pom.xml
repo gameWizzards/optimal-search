@@ -64,7 +64,7 @@
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>
                 <configuration>
-                    <mainClass>com.kotlinspringvue.backend.BackendApplicationKt</mainClass>
+                    <mainClass>com.team.optimalsearch.BackendApplicationKt</mainClass>
                 </configuration>
             </plugin>
             <plugin>
