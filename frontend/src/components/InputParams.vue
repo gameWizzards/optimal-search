@@ -1,7 +1,6 @@
 <template>
-
   <v-container fluid>
-    <v-row align="left">
+    <v-row>
 
       <v-col
           cols="12"
@@ -25,6 +24,8 @@
 
       </v-col>
 
+    </v-row>
+    <v-row>
       <v-col
           cols="12"
           sm="2"
@@ -39,26 +40,21 @@
             dense
         ></v-combobox>
       </v-col>
-
+    </v-row>
+    <v-row>
       <v-col
           cols="12"
           sm="2"
           class="py-2"
       >
-        <p>Mandatory</p>
-
         <v-btn
             color="primary"
-            v-on="on"
-            v-bind="attrs"
             dark
             bottom
         >
           Search
         </v-btn>
-
       </v-col>
-
     </v-row>
   </v-container>
 </template>
@@ -82,12 +78,6 @@
                     'Down optimal',
                     'All configurations',
                 ],
-                text: 'center',
-                icon: 'justify',
-                toggle_none: null,
-                toggle_one: 0,
-                toggle_exclusive: 1,
-                toggle_multiple: [0, 1, 2],
             }
         },
     }
