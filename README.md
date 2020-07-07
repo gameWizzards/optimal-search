@@ -4,4 +4,4 @@
 
 
 More:
- - [PoltNTU](http://reposit.pntu.edu.ua/handle/PoltNTU/5699)
+ - [Estimating the cost of the toroidal-lattice communication network](http://reposit.pntu.edu.ua/handle/PoltNTU/5699)
